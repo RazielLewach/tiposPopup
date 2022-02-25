@@ -1,4 +1,6 @@
-$('head').append('<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/RazielLewach/tiposPopup/main/showTipos.css">');
+document.getElementsByTagName("head")[0].insertAdjacentHTML(
+    "beforeend",
+    "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/RazielLewach/tiposPopup/main/showTipos.css\" />");
 
 var canClick = false; // Gestionador de doble click.
 var isControl = false; // ¿Tienes control pulsado?
