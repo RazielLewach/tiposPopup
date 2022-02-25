@@ -1,0 +1,178 @@
+.popupTipos
+{
+	position: absolute;
+	color: #FFFFFF;
+	background: #000000;
+	text-align: center;
+	width: 450px;
+	height: 220px;
+	font-size: 15px;
+}
+
+.cargando
+{
+	display: block;
+	position: absolute;
+}
+
+.fondoTipos
+{
+	background-image: url(https://i.imgur.com/8HzQ7Fb.png);
+	height: 220px;
+}
+
+.dropdown
+{
+	border: 1px solid #FFFFFF;
+	color: #FFFFFF;
+	padding: 0px;
+	width: 105px;
+}
+
+.cellElemento
+{
+	width: 220px;
+	max-width: 220px;
+	height: 95px;
+	max-height: 95px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.cellPokemon
+{
+	background-image: url(https://www.pkparaiso.com/imagenes/xy/sprites/animados/bulbasaur.gif);
+}
+
+.showDanyosUsuario, .showDanyosEnemigo, .showStageUsuario, .showStageEnemigo
+{
+	text-align: center;
+	background-color: rgba(0,0,0,0.7);
+	margin-bottom: 0px;
+}
+
+.flechaEnemigo
+{
+	margin-top: 20px;
+}
+
+.flechaUsuario
+{
+	margin-top: 20px;
+}
+
+/*Los colores de los tipos.*/
+.Null
+{
+	background-color:#000000;
+	color:#000000;
+}
+
+.Acero
+{
+	background-color:#AFACBB;
+	color:#000000;
+}
+
+.Agua
+{
+	background-color:#319CFE;
+	color:#000000;
+}
+
+.Bicho
+{
+	background-color:#A7B535;
+	color:#000000;
+}
+
+.Dragon
+{
+	background-color:#7B68E0;
+	color:#000000;
+}
+
+.Electrico
+{
+	background-color:#FDE07A;
+	color:#000000;
+}
+
+.Fantasma
+{
+	background-color:#6F6A99;
+	color:#FFFFFF;
+}
+
+.Fuego
+{
+	background-color:#FF4422;
+	color:#000000;
+}
+
+.Hada
+{
+	background-color:#F3AFEF;
+	color:#000000;
+}
+
+.Hielo
+{
+	background-color:#82DDF9;
+	color:#000000;
+}
+
+.Lucha
+{
+	background-color:#B9594E;
+	color:#FFFFFF;
+}
+
+.Normal
+{
+	background-color:#BAB9AC;
+	color:#000000;
+}
+
+.Planta
+{
+	background-color:#7BCC56;
+	color:#000000;
+}
+
+.Psiquico
+{
+	background-color:#E16591;
+	color:#000000;
+}
+
+.Roca
+{
+	background-color:#BCAA65;
+	color:#000000;
+}
+
+.Siniestro
+{
+	background-color:#695749;
+	color:#FFFFFF;
+}
+
+.Tierra
+{
+	background-color:#DCBB52;
+	color:#000000;
+}
+
+.Veneno
+{
+	background-color:#AA5E9C;
+	color:#000000;
+}
+
+.Volador
+{
+	background-color:#6B9BED;
+	color:#000000;
+}
