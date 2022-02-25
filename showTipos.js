@@ -1,3 +1,5 @@
+$('head').append('<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/RazielLewach/tiposPopup/main/showTipos.css">');
+
 var canClick = false; // Gestionador de doble click.
 var isControl = false; // ¿Tienes control pulsado?
 var xPopupTipos = 0; // La coordenada x del modal de tipos.
